@@ -33,5 +33,11 @@ You can look me up on:
 - [LinkedIn](https://www.linkedin.com/in/cknudsen/)
 - [kn5.us](https://www.k5n.us)
 
-How to reach me:
+Reach me at:
 - craig AT k5n.us
+
+Interesting facts:
+- My first open source contribution was a system menu bar for HP-UX, SunOS, AIX and OSF/1 that I released
+  in 1995 called xapplaunch (still online [here](https://distro.ibiblio.org/amigolinux/download/XApps/xapplaunch-1.1afx/)) by placing the source code on a public FTP server.
+  Note that the term "open source" was not actually established until
+  [a few years later in 1998](https://opensource.org/faq).
