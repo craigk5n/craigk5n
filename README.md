@@ -5,7 +5,9 @@ source repositories include:
 - [CVE services](https://github.com/craigk5n/cve-services): I've contributed to the (new in 2021) REST API
   for MITRE's CVE project.  My [primary contributions](https://github.com/CVEProject/cve-services/pulls?q=author%3Acraigk5n)
   have related to containerizing the NodeJS app.
-- [WebCalendar](https://github.com/craigk5n/webcalendar): PHP LAMP multi-user calendar with translations to over 25 languages and long history of support
+- [WebCalendar](https://github.com/craigk5n/webcalendar): PHP LAMP multi-user calendar with translations to over 25 languages and long history of support.
+  I have had many code contributions to WebCalendar over the years and can only claim to have authored about have the code.
+  There are also over [25 translations](https://github.com/craigk5n/webcalendar/tree/master/translations).
 - [Java Calendar Tools](https://github.com/craigk5n/javacaltools): Java library for parsing and generating
   iCalendar ([RFC 2445](https://www.rfc-editor.org/rfc/rfc2445.html)) data
 - [k5nCal](https://github.com/craigk5n/k5ncal): Desktop calendar application written in Java
@@ -37,7 +39,7 @@ Reach me at:
 - craig AT k5n.us
 
 Interesting facts:
-- My first open source contribution was a system menu bar for HP-UX, SunOS, AIX and OSF/1 that I released
+- My first open source contribution was a system menubar for HP-UX, SunOS, AIX and OSF/1 that I released
   in 1995 called xapplaunch (still online [here](https://distro.ibiblio.org/amigolinux/download/XApps/xapplaunch-1.1afx/)) by placing the source code on a public FTP server.
   Note that the term "open source" was not actually established until
   [a few years later in 1998](https://opensource.org/faq).
