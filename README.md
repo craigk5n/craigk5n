@@ -20,13 +20,12 @@ I'm currently working on:
 - Updating WebCalendar's UI to use Bootstrap and jQuery.  It was previously using some very old custom HTML/CSS
   and a mix of JS tools (Prototype.js and others).  The work for this is in the bootstrap-ui branch, but I
   am hoping to merge it into the main branch soon.
-- Teaching myself Go.  There's nothing here on GitHub yet, but I am working on a project for finding
+- Teaching myself Go.  I recently posted my first Go code on Github with my new [cliquetool](https://github.com/craigk5n/cliquetool)
+  project.  The project deals with 
   [cliques](https://en.wikipedia.org/wiki/Clique_problem) in
-  a sparsely populated undirected graph based on some work I did years ago in C.  I'm hoping this
-  will prove to be an effective way to learn Go.
-  The algorithm is optimized for a sparse
-  graph since this problem.  My example data set will be a list of NCAA basketball games for a single season.
-  The goal will will to determine the conference affiliations for all teams based on
+  a sparsely populated undirected graph based on some work I did years ago in C.
+  My example data set includes be a list of NCAA basketball games from a single season.
+  The goal was to determine the conference affiliations for all teams based on
   the list of games.  (Note that in college basketball, each team within a conference generally plays
   each other team at least once.  This is not true in college football where teams often play a
   subset of the other teams within their conference.)
