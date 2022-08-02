@@ -2,9 +2,9 @@
 
 I am a software engineer, and I've been contributing to open source projects for 20+ years.  My open
 source repositories include:
-- [CVE services](https://github.com/craigk5n/cve-services): I've contributed to the (new in 2021) REST API
-  for MITRE's CVE project.  My [primary contributions](https://github.com/CVEProject/cve-services/pulls?q=author%3Acraigk5n)
-  have related to containerizing the NodeJS app.
+- [Cliquetool](https://github.com/craigk5n/cliquetool): Multi-purpose tool written in Go for finding cliques within a graph,
+  building dense groups from the cliques,
+  and generating reports on the results.
 - [WebCalendar](https://github.com/craigk5n/webcalendar): PHP LAMP multi-user calendar with translations to over 25 languages and long history of support.
   I have had many code contributions to WebCalendar over the years and can only claim to have authored about have the code.
   There are also over [25 translations](https://github.com/craigk5n/webcalendar/tree/master/translations).
@@ -15,11 +15,13 @@ source repositories include:
 - [Ilib](https://github.com/craigk5n/ilib): C library for reading, writing, and manipulating images with API loosely
   based on [X11 API](https://x.org/releases/current/doc/libX11/libX11/libX11.html) and utilizing any
   [X11 BDF font](https://x.org/releases/X11R7.7/doc/xorg-docs/fonts/fonts.html) for writing text
+- [CVE services](https://github.com/craigk5n/cve-services): I've contributed to the (new in 2021) REST API
+  for MITRE's CVE project while I worked at MITRE.  My [primary contributions](https://github.com/CVEProject/cve-services/pulls?q=author%3Acraigk5n)
+  have related to containerizing the NodeJS app.
 
 I'm currently working on:
 - Updating WebCalendar's UI to use Bootstrap and jQuery.  It was previously using some very old custom HTML/CSS
-  and a mix of JS tools (Prototype.js and others).  The work for this is in the bootstrap-ui branch, but I
-  am hoping to merge it into the main branch soon.
+  and a mix of JS tools (Prototype.js and others).  The work for this is now in the main branch.
 - Teaching myself Go.  I recently posted my first Go code on Github with my new [cliquetool](https://github.com/craigk5n/cliquetool)
   project.  The project deals with 
   [cliques](https://en.wikipedia.org/wiki/Clique_problem) in
