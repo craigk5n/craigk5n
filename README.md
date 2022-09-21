@@ -5,7 +5,7 @@ source repositories include:
 - [Cliquetool](https://github.com/craigk5n/cliquetool): Multi-purpose tool written in Go for finding cliques within a graph,
   building dense groups from the cliques,
   and generating reports on the results.
-- [Ilib-go](https://github.com/craigk5n/ilibgo): Go library for reading, writing, and manipulating images with API loosely
+- [ilibgo](https://github.com/craigk5n/ilibgo): Go library for reading, writing, and manipulating images with API loosely
   based on [X11 API](https://x.org/releases/current/doc/libX11/libX11/libX11.html) and utilizing any
   [X11 BDF font](https://x.org/releases/X11R7.7/doc/xorg-docs/fonts/fonts.html) for writing text.
   This is a Go port of my C library (listed below).
