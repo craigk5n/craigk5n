@@ -19,7 +19,9 @@ source repositories include:
 - [Ilib](https://github.com/craigk5n/ilib): C library for reading, writing, and manipulating images with API loosely
   based on [X11 API](https://x.org/releases/current/doc/libX11/libX11/libX11.html) and utilizing any
   [X11 BDF font](https://x.org/releases/X11R7.7/doc/xorg-docs/fonts/fonts.html) for writing text
-- [CVE services](https://github.com/craigk5n/cve-services): I've contributed to the (new in 2021) REST API
+
+Other projects/repos I have contributed to:
+- [CVE services](https://github.com/craigk5n/cve-services): I've contributed to the REST API
   for MITRE's CVE project while I worked at MITRE.  My [primary contributions](https://github.com/CVEProject/cve-services/pulls?q=author%3Acraigk5n)
   have related to containerizing the NodeJS app.
 
