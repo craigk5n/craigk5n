@@ -1,17 +1,18 @@
 ### Hi there
 
-I am a software engineer, and I've been contributing to open source projects for 20+ years.  My open
-source repositories include:
+I am a software engineer, and I've been contributing to open source projects for 20+ years.
+My open source repositories include:
+- [WebCalendar](https://github.com/craigk5n/webcalendar): PHP 8 LAMP multi-user calendar with a long history of support.
+  I have had many code contributions to WebCalendar over the years and can only claim to have authored about half the code.
+  There are also over [30 translations](https://github.com/craigk5n/webcalendar/tree/master/translations).
 - [Cliquetool](https://github.com/craigk5n/cliquetool): Multi-purpose tool written in Go for finding cliques within a graph,
-  building dense groups from the cliques,
-  and generating reports on the results.
-- [ilibgo](https://github.com/craigk5n/ilibgo): Go library for reading, writing, and manipulating images with API loosely
+  building dense groups from the cliques and generating reports on the results.
+- [ilibgo](https://github.com/craigk5n/ilibgo): Golang library for reading, writing, and manipulating images with API loosely
   based on [X11 API](https://x.org/releases/current/doc/libX11/libX11/libX11.html) and utilizing any
   [X11 BDF font](https://x.org/releases/X11R7.7/doc/xorg-docs/fonts/fonts.html) for writing text.
   This is a Go port of my C library (listed below).
-- [WebCalendar](https://github.com/craigk5n/webcalendar): PHP LAMP multi-user calendar with translations to over 25 languages and long history of support.
-  I have had many code contributions to WebCalendar over the years and can only claim to have authored about half the code.
-  There are also over [25 translations](https://github.com/craigk5n/webcalendar/tree/master/translations).
+
+And older stuff that is not really maintained anymore:
 - [Java Calendar Tools](https://github.com/craigk5n/javacaltools): Java library for parsing and generating
   iCalendar ([RFC 2445](https://www.rfc-editor.org/rfc/rfc2445.html)) data
 - [k5nCal](https://github.com/craigk5n/k5ncal): Desktop calendar application written in Java
@@ -23,16 +24,18 @@ source repositories include:
 Other projects/repos I have contributed to:
 - [CVE services](https://github.com/craigk5n/cve-services): I've contributed to the REST API
   for MITRE's CVE project while I worked at MITRE.  My [primary contributions](https://github.com/CVEProject/cve-services/pulls?q=author%3Acraigk5n)
-  have related to containerizing the NodeJS app.
+  have related to containerizing the NodeJS app.  (I also set up the CI/CD pipeline in AWS CodePipeline, but that's
+  not on GitHub.)
 
 I'm currently working on:
-- Updating WebCalendar's UI to use Bootstrap and jQuery.  It was previously using some very old custom HTML/CSS
-  and a mix of JS tools (Prototype.js and others).  The work for this is now in the main branch.
-- Teaching myself Go.  I recently posted my first Go code on Github with my new [cliquetool](https://github.com/craigk5n/cliquetool)
+- I have updated WebCalendar's UI to use Bootstrap and jQuery.  It was previously using some very old custom HTML/CSS
+  and a mix of JS tools (Prototype.js and others).  This work is now in the main branch and part of the v1.9.X releases.
+  I also rewrote the web-based installer and updated everything for PHP 8.
+- Teaching myself Golang.  My first Go code on Github was the [cliquetool](https://github.com/craigk5n/cliquetool)
   project.  The project deals with 
   [cliques](https://en.wikipedia.org/wiki/Clique_problem) in
   a sparsely populated undirected graph based on some work I did years ago in C.
-  My example data set includes be a list of NCAA basketball games from a single season.
+  My example data set includes a list of NCAA basketball games from a single season.
   The goal was to determine the conference affiliations for all teams based on
   the list of games.  (Note that in college basketball, each team within a conference generally plays
   each other team at least once.  This is not true in college football where teams often play a
@@ -48,5 +51,5 @@ Reach me at:
 Interesting facts:
 - My first open source contribution was a system menubar for HP-UX, SunOS, AIX and OSF/1 that I released
   in 1995 called xapplaunch (still online [here](https://distro.ibiblio.org/amigolinux/download/XApps/xapplaunch-1.1afx/)) by placing the source code on a public FTP server.
-  Note that the term "open source" was not actually established until
+  Note that the term "open source" was not established until
   [a few years later in 1998](https://opensource.org/faq).
