@@ -13,9 +13,10 @@ Principal AI Engineer with 25+ years building production systems — currently f
   and maintain; **1M+ downloads, 30+ translations**. Recently modernized the UI (Bootstrap/jQuery,
   replacing legacy Prototype.js) and rewrote the installer for PHP 8.
 - [webcalendar-core](https://github.com/craigk5n/webcalendar-core) — modern PHP 8.1+ Clean Architecture
-  library (26 services, 17 repository interfaces, RFC 5545 iCalendar).
+  library (26 services, 17 repository interfaces, RFC 5545 iCalendar); this will power the next generation
+  of WebCalendar.
 - [php-icalendar-core](https://github.com/craigk5n/php-icalendar-core) — RFC 5545-compliant iCalendar
-  parser/writer for PHP 8.1+.
+  parser/writer for PHP 8.1+; this will also be critical in the next generation of WebCalendar.
 - [Cliquetool](https://github.com/craigk5n/cliquetool) — Go tool for finding cliques in a graph
   (built to teach myself Go).
 - [ilibgo](https://github.com/craigk5n/ilibgo) — Go image library with an X11-style API; a port of my C `ilib`.
