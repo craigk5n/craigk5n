@@ -6,15 +6,14 @@ Principal AI Engineer with 25+ years building production systems — currently f
 
 #### 🤖 AI / MCP
 - **[WebCalendar](https://github.com/craigk5n/webcalendar) now includes an MCP server** that exposes
-  calendar operations (events, search, scheduling) to AI assistants — built on a modern RFC 5545
-  iCalendar core. [link to the MCP docs/section]
+  calendar operations (events, search, scheduling) to AI assistants.
 
 #### 📅 Actively maintained
 - [WebCalendar](https://github.com/craigk5n/webcalendar) — PHP 8 LAMP multi-user calendar I created
   and maintain; **1M+ downloads, 30+ translations**. Recently modernized the UI (Bootstrap/jQuery,
   replacing legacy Prototype.js) and rewrote the installer for PHP 8.
 - [webcalendar-core](https://github.com/craigk5n/webcalendar-core) — modern PHP 8.1+ Clean Architecture
-  library (26 services, 17 repository interfaces, RFC 5545 iCalendar) — the engine behind the MCP server.
+  library (26 services, 17 repository interfaces, RFC 5545 iCalendar).
 - [php-icalendar-core](https://github.com/craigk5n/php-icalendar-core) — RFC 5545-compliant iCalendar
   parser/writer for PHP 8.1+.
 - [Cliquetool](https://github.com/craigk5n/cliquetool) — Go tool for finding cliques in a graph
